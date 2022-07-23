@@ -26,5 +26,5 @@ You can suggest me any changes if required. Also, you can request me to create t
 
 ❤️ Follow me at ``@iomishah`` :: <a target="_blank" href="https://www.instagram.com/iomishah">Instagram</a> / <a target="_blank" href="https://twitter.com/iOMiShah">Twitter</a> / <a target="_blank" href="https://www.facebook.com/iOMiShah">Facebook</a>.
 
-# Don't forget to tar ⭐ this repo. Thanks. Enjoy ☺️ 
+# Don't forget to star ⭐ this repo. Thanks. Enjoy ☺️ 
 
