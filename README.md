@@ -6,8 +6,9 @@ A fully responsive, beautiful, clean, minimal &amp; responsive personal portfoli
 
 <img alt="Portfolio Landing Page - HTML Bootstrap Template Preview" src="https://raw.githubusercontent.com/omishah/portfolio-landing-page-html-bootstrap-template/main/screenshot.png?raw=true" />
 
-You can use the template to build your personal portfolio website, modify as per your need. 🎉🥳
-You can suggest me any changes if required. Also, you can request me to create template if you have any UI design ideas. ✌️
+# Live Demo
+
+You can check the template live in action at https://codecyan.com/omishah
 
 # Credits
 
@@ -17,6 +18,9 @@ So, I decided to make a template from the design, and here we're. I have used Bo
 
 - UI Design by <a href="https://dribbble.com/shots/16831903-Portfolio-Landing-Page">Sajon</a>.
 - Used https://www.remove.bg to remove background from my portrait image (hero image).
+
+You can use the template to build your personal portfolio website, modify as per your need. 🎉🥳
+You can suggest me any changes if required. Also, you can request me to create template if you have any UI design ideas. ✌️
 
 # Follow
 
