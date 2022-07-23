@@ -22,5 +22,5 @@ So, I decided to make a template from the design, and here we're. I have used Bo
 
 ❤️ Follow me at ``@iomishah`` :: <a target="_blank" href="https://www.instagram.com/iomishah">Instagram</a> / <a target="_blank" href="https://twitter.com/iOMiShah">Twitter</a> / <a target="_blank" href="https://www.facebook.com/iOMiShah">Facebook</a>.
 
-# Thanks. Enjoy ☺️ 
+# Don't forget to tar ⭐ this repo. Thanks. Enjoy ☺️ 
 
