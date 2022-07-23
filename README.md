@@ -11,7 +11,7 @@ You can suggest me any changes if required. Also, you can request me to create t
 
 # Credits
 
-I really liked this clean portfolio landing page design by Sajon @ https://dribbble.com/shots/16831903-Portfolio-Landing-Page 💕
+I really liked this clean portfolio landing page UI design by Sajon @ https://dribbble.com/shots/16831903-Portfolio-Landing-Page 💕
 
 So, I decided to make a template from the design, and here we're. I have used Bootstrap v5.2.✌️ 👏
 
